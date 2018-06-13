@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#04b00f",
+    "navigationBarTitleText": "倒计时",
+    "navigationBarTextStyle":"white"
+  }
+}
